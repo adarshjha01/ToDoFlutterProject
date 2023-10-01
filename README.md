@@ -1,16 +1,4 @@
 # to_do_list
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Todo List App
+Welcome to the Todo List App project! This simple yet powerful application will help you manage your tasks and stay organized. Whether you're a busy professional or a student, this app will make it easy for you to keep track of your to-do items and accomplish your goals.
